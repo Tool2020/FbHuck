@@ -6,9 +6,9 @@ os.system("clear")
 banner = os.system( "pyfiglet Huckers")
 
 print(Fore.GREEN+"Developer : MAX_H98KER")
-print(Fore.GREEN+"Facebook  : https://www.facebook.com/Max776k")
+print(Fore.GREEN+"Facebook  : https://www.facebook.com/Call.me.dadyy9")
 print(Fore.GREEN+"Code      : python")
-print(Fore.GREEN+"Action    :Facebook bruteforce")
+print(Fore.GREEN+"Action    : Facebook bruteforce")
 
 print("\n")
 data = input(Fore.GREEN+Back.WHITE+"login phone or mail ->")
