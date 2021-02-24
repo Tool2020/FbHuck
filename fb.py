@@ -11,7 +11,7 @@ print(Fore.GREEN+"Code      : python")
 print(Fore.GREEN+"Action    :Facebook bruteforce")
 
 print("\n")
-data = input(Fore.GREEN+Back.WHITE+"login name ->")
+data = input(Fore.GREEN+Back.WHITE+"login phone or mail ->")
 anon = input(Fore.GREEN+Back.WHITE+"login password ->")
 print()
 print(data)
