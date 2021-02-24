@@ -3,7 +3,7 @@ import sys
 import time 
 from colorama import Fore , Back ,Style
 os.system("clear")
-banner = os.system( "pyfiglet Huckers")
+banner = os.system( "pyfiglet myanmar military Hacker force")
 
 print(Fore.GREEN+"Developer : MAX_H98KER")
 print(Fore.GREEN+"Facebook  : https://www.facebook.com/Call.me.dadyy9")
